@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/merryt/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</div>
 ### Whos is Tyler Merry
 I am a 30 Something from rural Ohio. 5 years doing front end development, 3 years doing UX work, 2 years doing visual design work and 2 years doing back end development (in no particular order). I love learning new things, playing games and solving problems! I downshifted work recently and have been traveling while helping companies solve UX problems. My home page and place of residency is Denver Colorado.
   
@@ -32,8 +33,6 @@ I am a 30 Something from rural Ohio. 5 years doing front end development, 3 year
   <a href="https://www.linkedin.com/in/merryt/">
     <img src="https://img.shields.io/badge/Dribbble?style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-</div>
-
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -41,7 +40,6 @@ I am a 30 Something from rural Ohio. 5 years doing front end development, 3 year
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
