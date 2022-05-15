@@ -29,7 +29,7 @@ I am a 30 Something from rural Ohio. 5 years doing front end development, 3 year
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-### :hammer_and_wrench: I like bunches of tools, but here are some I have enjoyed lately :
+### :hammer_and_wrench: I have used heaps of different tools, but here are some I have enjoyed lately :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
