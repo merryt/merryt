@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 ### Whos is Tyler Merry
-I am a 30 something from grew up in rural Ohio. 5 years front end development, 3 years UX, 2 years visual design, and 2 years doing back end development (no particular order). I love learning new things, playing games and solving problems! I downshifted work recently and have been traveling while helping companies solve problems. My home base and place of residency is Denver Colorado.
+I am a 30 something from grew up in rural Ohio. 5 years front end development, 3 years UX, 2 years visual design, and 2 years doing back end development (no particular order). I love learning new things, playing games and solving problems! I downshifted work in Oct 2021 and have been traveling while helping companies solve problems. My home base and place of residency is Denver Colorado.
   
 - 🚲 I'm currently biking across europe
 - 📖 Techbook I am going currently working on is Structure and Interpretation of Computer Programs 
