@@ -34,5 +34,5 @@ I am a 30 something from grew up in rural Ohio. 5 years front end development, 3
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg" title="Adonis.js" alt="Adonis.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Adonis.js" alt="Adonis.js" width="40" height="40"/>&nbsp;
 </div>
